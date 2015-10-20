@@ -4,5 +4,22 @@ h1 {
     color: $red
 }
 
+.tussi {
+    background-color: pink;
+    padding: 20px;
+
+    button {
+        margin-left: 50px;
+    }
+}
 
 
+.mega_counter {
+    font-size: 300px;
+    color: rgb(240, 255, 255);
+}
+
+.lenny {
+    font-size: 200px;
+    color: rgb(240, 255, 255);
+}
